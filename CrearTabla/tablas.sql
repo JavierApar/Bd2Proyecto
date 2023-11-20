@@ -1,1 +1,1 @@
-CREATE TABLE algo ()
+CREATE TABLE algo2 ()
